@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn[standard]
+pydantic-settings
+httpx
+aiofiles
+python-multipart
+pyngrok
+ultralytics
+opencv-python-headless
+nbformat
+PyYAML
+pytest

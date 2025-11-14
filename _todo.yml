@@ -1,0 +1,6 @@
+- task: Implement FastAPI app structure (config, services, routers, schemas)
+  status: pending
+- task: Add helper scripts for Ollama install and ngrok tunnel
+  status: pending
+- task: Draft Colab notebook instructions/workflow
+  status: pending
