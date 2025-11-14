@@ -19,7 +19,7 @@ def start_ngrok(port: int = 8000, authtoken: Optional[str] = None) -> str:
 
 def main() -> None:
     port = int(os.environ.get("FASTAPI_PORT", 8000))
-    authtoken = os.environ.get("NGROK_AUTHTOKEN")
+    authtoken = os.environ.get("2dX3AiyaMZ9bc5JFBUPre9SRd0L_kKit9xXv5s7hf7E8k8Ei")
     start_ngrok(port, authtoken)
 
 
